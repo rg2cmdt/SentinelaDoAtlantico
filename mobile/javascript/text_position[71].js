@@ -1,0 +1,1 @@
+﻿positionForPages[72]=[{word:"Sentinela do Atlântico ",left:0.140620,top:0.000000,width:0.087978,height:0.140620}];

@@ -1,0 +1,1 @@
+﻿positionForPages[117]=[{word:"Sentinela do Atlântico ",left:0.786535,top:0.000000,width:0.732533,height:0.786535},{word:"CONDECORAÇÃO DO REGIMENTO ",left:0.142915,top:0.000000,width:0.025369,height:0.142915},{word:"Atribuição da Medalha de Ouro dos Serviços Distintos",left:0.142915,top:0.000000,width:0.009915,height:0.142915}];

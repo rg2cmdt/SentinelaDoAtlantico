@@ -1,0 +1,1 @@
+﻿positionForPages[127]=[{word:"Sentinela do Atlântico ",left:0.786535,top:0.000000,width:0.732533,height:0.786535},{word:"28Abr18 - Campo de São Francisco (Ponta Delgada), Entrega do Estandarte Nacional ao 7CN/FND/OIR",left:0.156017,top:0.000000,width:0.783614,height:0.156017}];

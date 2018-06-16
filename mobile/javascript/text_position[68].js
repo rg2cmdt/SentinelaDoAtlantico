@@ -1,0 +1,1 @@
+﻿positionForPages[69]=[{word:"Sentinela do Atlântico ",left:0.786566,top:0.000000,width:0.732499,height:0.786566},{word:"1ª ORDEM DE SERVIÇO ",left:0.142939,top:0.000000,width:0.025334,height:0.142939}];

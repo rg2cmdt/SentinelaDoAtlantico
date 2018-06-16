@@ -1,0 +1,1 @@
+﻿positionForPages[6]=[{word:"2017 - Atividade diária do RG2 – Instrução /Formação - Treino Operacional – Cerimónias - Exercícios",left:0.149189,top:0.000000,width:0.766356,height:0.149189}];
